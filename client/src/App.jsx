@@ -94,7 +94,7 @@ function App() {
               <div className="card skill-card p-4 h-100 border-0 shadow-lg">
                 <div className="icon-box frontend-icon mb-3 mx-auto"><i className="fas fa-laptop-code fa-2x"></i></div>
                 <h4 className="fw-bold text-white mb-3">Frontend</h4>
-                <p className="text-light-gray small">React.js, Bootstrap, JavaScript (ES6+), HTML5, CSS3, Vite</p>
+                <p className="text-light-gray small">React.js,Redux Toolkit, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3, Vite</p>
               </div>
             </div>
             <div className="col-md-4">
